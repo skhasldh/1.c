@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+    <title>致小周宝贝~</title>
+    <meta name="description" content="致小周宝贝~" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #4bc0c8, #c779d0, #feac5e);
+      }
+      .box {
+        height: 80vh;
+        width: 70%;
+        max-width: 600px;
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 4px;
+        box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+          rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        hyphens: auto;
+        text-align: justify;
+        color: #333;
+        font-size: 17px;
+        line-height: 1.7;
+        letter-spacing: 0.034em;
+        font-family: "思源黑体";
+        overflow-y: scroll;
+      }
+      .box::-webkit-scrollbar {
+        display: none; /* Chrome Safari */
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="box">
+      <div>致小周宝贝：</div>
+      <p>嘿嘿嘿，宝贝</p>
+      <p>第一次以这种方式跟你对话，有没有觉得很新奇呀</p>
+      <p>还记得初次见时的我是个小偷</p>
+      <p>偷懒，偷笑，还不忘偷偷地看你</p>
+      <p>有句诗叫：晓看天色暮看云，行也思君，坐也思君</p>
+      <p>我只想说：春赏百花冬观雪，醒也思君，梦也思君</p>
+      <p>对呀，春有百花秋有月，夏有暖阳冬有雪</p>
+      <p>而我只想早晚都有你</p>
+      <p>那之后呢，我又给自己放了个假</p>
+      <p>假装陌生，假装正经，假装从你的全世界走过</p>
+      <p>我承认，在往后呢，我的职业病又犯了噻</p>
+      <p>偷偷地靠近你，假装着有勇气</p>
+      <p>我们迎着春风前行</p>
+      <p>却也背着黄昏而过</p>
+      <p>我似饿狼，你像小羊</p>
+      <p>暖阳偷摸着吻过你的发梢</p>
+      <p>我却嫉妒地咬了它一大口</p>
+      <p>自此</p>
+      <p>我的胃里，有黄昏在翻涌</p>
+      <p>我的夜里，有星河在滚烫</p>
+      <p>我的心里，有思绪在浮动</p>
+      <p>真是：思君无转易，何异北辰星</p>
+      <p>惹的：君本醉心境，梦里难见卿</p>
+      <p>彼时的我不再贪慕于璀璨的星空</p>
+      <p>只期盼着与你的再一次邂逅</p>
+      <p>上一次的相遇是我做的短梦</p>
+      <p>梦里有你，还有一群冬风</p>
+      <p>我本是那百无一用的闲散书生</p>
+      <p>见山是山，见海是海，见花亦是花</p>
+      <p>独独遇了你</p>
+      <p>云海自此翻涌，江潮开始澎湃</p>
+      <p>蜉蝣的小须挠着全世界的痒痒</p>
+      <p>你无需开口，我的天地万物便奔涌向你</p>
+      <p>我行过多形的路，渡过多样的河</p>
+      <p>也见过多彩的云，品过多类的酒</p>
+      <p>遇见过春日夏风，秋叶冬雪</p>
+      <p>踏遍了南水北山，东麓西岭</p>
+      <p>这世间一眼万年的光景</p>
+      <p>却不及那黄昏下，回眸一瞥的背影</p>
+      <p>你眼中那初春的花与暮秋的果</p>
+      <p>胜过我所见所爱的一切的一切</p>
+      <p>人们都喜欢将爱情刻进水晶</p>
+      <p>而我却将这一切的思绪封存</p>
+      <p>送给了我最最最喜欢的宝贝~</p>
+      <p>我想趁阳光正好，趁微风不燥</p>
+      <p>趁繁华还未开至荼蘼</p>
+      <p>趁此时烈日当空</p>
+      <p>提笔长抒一卷</p>
+      <p>又担心言语的苍白彰显不了我心中的热情</p>
+      <p>使得落笔踌躇</p>
+      <p>我本想带你欣赏世间绝色的风景</p>
+      <p>蓦然回首，才知心中所念皆是你</p>
+      <p>这凡间灼灼春光，杳杳秋音</p>
+      <p>又怎抵你眉目间的星辰点点</p>
+      <p>我喜欢着你</p>
+      <p>自黑夜到黎明，从严冬到暖春</p>
+      <p>始于盛夏，终于垂暮</p>
+      <p>生生不息，百世轮回</p>
+      <p>你便是朝露，你便是晚星，是我一切的欢喜</p>
+      <p>凝望着你的双眸，未饮酒，已酩酊</p>
+      <p>我是一个不爱写日记也不爱写信的凡夫俗子</p>
+      <p>不求无与伦比的邂逅与机遇</p>
+      <p>但求无忧，与小周共白头</p>
+      <p style="text-align: right">是小黄呀</p>
+      <p style="text-align: right">2023年2月23日23：23</p>
+    </div>
+  </body>
+</html>
